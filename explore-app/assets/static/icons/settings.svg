@@ -1,0 +1,15 @@
+<svg width="26" height="23" viewBox="0 0 26 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bytesize:settings" clip-path="url(#clip0_6379_1895)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M1.625 13.6562H4.875L5.6875 15.0938L3.25 17.25L6.5 20.125L8.9375 17.9688L10.5625 18.6875V21.5625H15.4375V18.6875L17.0625 17.9688L19.5 20.125L22.75 17.25L20.3125 15.0938L21.125 13.6562H24.375V9.34375H21.125L20.3125 7.90625L22.75 5.75L19.5 2.875L17.0625 5.03125L15.4375 4.3125V1.4375H10.5625V4.3125L8.9375 5.03125L6.5 2.875L3.25 5.75L5.6875 7.90625L4.875 9.34375H1.625L1.625 13.6562Z" stroke="#0B2136" stroke-opacity="0.97" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M16.25 11.5C16.25 9.91218 14.7949 8.625 13 8.625C11.2051 8.625 9.75 9.91218 9.75 11.5C9.75 13.0878 11.2051 14.375 13 14.375C14.7949 14.375 16.25 13.0878 16.25 11.5Z" stroke="#0B2136" stroke-opacity="0.97" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_6379_1895">
+<rect width="26" height="23" fill="white"/>
+</clipPath>
+</defs>
+</svg>
